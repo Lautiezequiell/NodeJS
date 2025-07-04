@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Proyecto Calculadora en JavaScript",
+  "main": "inicializar.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Test_Node"
+  },
+  "keywords": [
+    "Calculator",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Guerrero Lautaro Ezequiel",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  }
+}
