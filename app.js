@@ -24,7 +24,7 @@ function calcular(nombreCalculo, valor1, valor2) {
   console.log(`Resultado de ${nombreCalculo}(${valor1}, ${valor2}) = ${resultado}`);
 }
 
-// 🔹 Pruebas con cada cálculo disponible
+// 🔹 Pruebas con cada cálculo 
 calcular('suma', 10, 5);
 calcular('resta', 10, 5);
 calcular('multiplicacion', 10, 5);

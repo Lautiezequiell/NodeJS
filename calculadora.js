@@ -1,6 +1,8 @@
-export function info() {
- let mensaje = "Con el presente modulo usted podrá realizar las operaciones básicas de matemática como sumar, restar, multiplicar y dividir";
-        console.log(mensaje);
+export function info(mensaje) {
+    if (typeof mensaje !== 'string') {
+        mensaje = "Con el presente modulo usted podrá realizar las operaciones básicas de matemática como sumar, restar, multiplicar y dividir";
+    }
+    return mensaje;
 }
 
 export function suma (a,b) {
