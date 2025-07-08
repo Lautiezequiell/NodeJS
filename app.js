@@ -29,4 +29,4 @@ calcular('suma', 10, 5);
 calcular('resta', 10, 5);
 calcular('multiplicacion', 10, 5);
 calcular('division', 10, 5);
-calcular('division', 10, 0); // Prueba de división por cero
+calcular('division', 10, 0); // Prueba de división por cero para el mensaje wara wara

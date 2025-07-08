@@ -19,6 +19,6 @@
   "author": "Guerrero Lautaro Ezequiel",
   "license": "ISC",
   "dependencies": {
-    "mysql2": "^3.14.1"
+    "moment": "^2.30.1"
   }
 }
